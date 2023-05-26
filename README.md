@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+![Logo](https://raw.githubusercontent.com/pablosiqueira/pablosiqueira.github.io/main/img/receipt.png)
+
+# Expenses List
+
+The page shows a static list of expenses and it allows to filter the elements by year and add new ones.\
+Page made with ReactJS.
+
+- [Visit page (deploy by Netlify)](https://627d4de3b4a00e0380385306--tranquil-dodol-f7a208.netlify.app/)
+
+## Authors
+
+- [@pablosiqueira](https://www.github.com/pablosiqueira)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
